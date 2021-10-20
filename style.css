@@ -3,7 +3,7 @@
 }
 
 #board, .boardInfo {
-    max-width: 800px;
+    max-width: 500px;
 }
 
 #board {
@@ -17,6 +17,10 @@
 
 #gameOver {
     display: none;
+    color: rgb(37, 17, 226);
+    flex-wrap: wrap;
+    font-size: larger;
+    
 }
 
 .boardInfo {
